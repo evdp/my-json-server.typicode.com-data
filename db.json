@@ -90,6 +90,5 @@
             "CNTISOCDE": "LNR1",
             "container_status": false
         }
-    ],
-    "sql": "select top 10 ITMNR as item_number, CNTNR as container_number, CNTVL AS load_status, TRFLOWIN modality_in, TRFLOWOUT modality_out, CNTISOCDE, CNTVL container_status from item for json path"
+    ]
 }
