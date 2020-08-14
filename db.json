@@ -3,92 +3,65 @@
         {
             "item_number": 1,
             "container_number": "XXXX2339341",
-            "load_status": true,
+            "load_status": 1,
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "42G1",
-            "container_status": true
+            "container_status": 'TER'
         },
         {
             "item_number": 2,
             "container_number": "ALNU3090337",
-            "load_status": true,
+            "load_status": 1,
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "42G1",
-            "container_status": true
+            "container_status": 'TER'
         },
         {
             "item_number": 3,
             "container_number": "CLOU2365652",
-            "load_status": true,
+            "load_status": 1,
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "22G1",
-            "container_status": true
+            "container_status": 'TER'
         },
         {
             "item_number": 4,
             "container_number": "LFEU0457400",
-            "load_status": false,
+            "load_status": 1,
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "22R1",
-            "container_status": false
+            "container_status": 'TER'
         },
         {
             "item_number": 5,
             "container_number": "LFEU0457592",
-            "load_status": false,
+            "load_status": 0,
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "22R1",
-            "container_status": false
+            "container_status": 'TER'
         },
         {
             "item_number": 6,
             "container_number": "LFEU0457674",
-            "load_status": false,
+            "load_status": 0,
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "45G1",
-            "container_status": false
+            "container_status": 'TER'
         },
         {
             "item_number": 7,
             "container_number": "CAIU5613814",
-            "load_status": false,
+            "load_status": 0,
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "42U1",
-            "container_status": false
-        },
-        {
-            "item_number": 11,
-            "container_number": "COCU1000004",
-            "load_status": false,
-            "modality_in": "LANDIN",
-            "modality_out": "LANDOUT",
-            "CNTISOCDE": "LNR1",
-            "container_status": false
-        },
-        {
-            "item_number": 12,
-            "container_number": "COCU1000180",
-            "load_status": false,
-            "modality_in": "LANDIN",
-            "modality_out": "LANDOUT",
-            "CNTISOCDE": "LNR1",
-            "container_status": false
-        },
-        {
-            "item_number": 13,
-            "container_number": "COCU1000679",
-            "load_status": false,
-            "modality_in": "SEAIN",
-            "modality_out": "LANDOUT",
-            "CNTISOCDE": "LNR1",
-            "container_status": false
+            "container_status": 'TER'
         }
     ]
 }
