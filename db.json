@@ -7,7 +7,7 @@
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "42G1",
-            "container_status": 'TER'
+            "container_status": "TER"
         },
         {
             "item_number": 2,
@@ -16,7 +16,7 @@
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "42G1",
-            "container_status": 'TER'
+            "container_status": "TER"
         },
         {
             "item_number": 3,
@@ -25,7 +25,7 @@
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "22G1",
-            "container_status": 'TER'
+            "container_status": "TER"
         },
         {
             "item_number": 4,
@@ -34,7 +34,7 @@
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "22R1",
-            "container_status": 'TER'
+            "container_status": "TER"
         },
         {
             "item_number": 5,
@@ -43,7 +43,7 @@
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "22R1",
-            "container_status": 'TER'
+            "container_status": "TER"
         },
         {
             "item_number": 6,
@@ -52,7 +52,7 @@
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "45G1",
-            "container_status": 'TER'
+            "container_status": "TER"
         },
         {
             "item_number": 7,
@@ -61,7 +61,7 @@
             "modality_in": "LANDIN",
             "modality_out": "LANDOUT",
             "CNTISOCDE": "42U1",
-            "container_status": 'TER'
+            "container_status": "TER"
         }
     ]
 }
